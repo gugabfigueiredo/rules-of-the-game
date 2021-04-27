@@ -1,2 +1,11 @@
-# regras-do-grupo
-Repositório de teste para demonstrar funcionalidades de VCS (software de controle de versão) e desenvolvimento de documentos cooperativos
+# Regras do Grupo
+
+Repositório para manter as regras de convivência do grupo
+
+## Índice
+
+* [Participantes](participantes): documento com a lista de participantes
+
+## Documentos
+
+* [Declaração Universal dos Direitos Humanos](Declaração Geral dos Direitos Humanos)
