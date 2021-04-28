@@ -23,5 +23,5 @@ To register as a member, create a pull request adding your name and link to your
 ## Documents
 
 * [Members](members.md)
-* [Universal Declaration of Human Rights](human-rights\universal-declaration-of-human-rights.md)
-  * [pt-BR](human-rights\declaracao-universal-dos-direitos-humanos.md)
+* [Universal Declaration of Human Rights](human-rights/universal-declaration-of-human-rights.md)
+  * [pt-BR](human-rights/declaracao-universal-dos-direitos-humanos.md)
