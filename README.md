@@ -2,13 +2,7 @@
 
 This repository holds the documents that establish the rules of the game.
 
-## Index
-
-* [Usage](#usage)
-  * [Registration](#registration)
-* [Documents](#documents)
-
-## Usage
+## Contributions
 
 Changes to any documents must be approved by all members.
 
