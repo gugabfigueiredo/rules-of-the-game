@@ -7,4 +7,4 @@ Alterações nos documentos do repositório só poderão ser adotadas caso haja 
 ## Índice
 
 * [Participantes](participantes): documento com a lista de participantes
-* [Declaração Universal dos Direitos Humanos](HumanRights/declaracao-universal-dos-direitos-humanos.md):
+* [Declaração Universal dos Direitos Humanos](human-rights/declaracao-universal-dos-direitos-humanos.md):
