@@ -34,7 +34,7 @@ Todo indivíduo tem direito à liberdade de ação, locomoção, pensamento e ex
 
 ## Artigo IV - Direito à Igualdade
 
-Todo indivíduo tem direito, sem qualquer distinção, à igual participação, julgamento e proteção perante as constituições e leis.
+Todo indivíduo tem direito à igual participação, julgamento e proteção perante as constituições e leis.
 
 ## Artigo V - Direito à Fraternidade
 
