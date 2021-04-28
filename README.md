@@ -20,7 +20,7 @@ To register as a member, create a pull request adding your name and link to your
 * [Guga Figueiredo](https://github.com/gugabfigueiredo)
 ```
 
-## Documentos
+## Documents
 
 * [Members](members.md)
 * [Universal Declaration of Human Rights](human-rights\universal-declaration-of-human-rights.md)
