@@ -4,7 +4,7 @@ This repository holds the documents that establish the rules of the game.
 
 ## Contributions
 
-Changes to any documents must be approved by all members.
+Changes to any documents must be approved by all registered members.
 
 ### Registration
 
