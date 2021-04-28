@@ -1,4 +1,4 @@
-# Universal Declaration of Human Rights: [pt-BR](declaracao-universal-dos-direitos-humandos.md)
+# Universal Declaration of Human Rights: [pt-BR](declaracao-universal-dos-direitos-humanos.md)
 
 ## Preamble
 
