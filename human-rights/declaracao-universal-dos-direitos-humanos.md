@@ -8,9 +8,9 @@ Considerando ser essencial que os direitos humanos sejam protegidos pelo respeit
 
 Considerando ser essencial promover o desenvolvimento de relações amistosas entre os povos,
 
-Considerando que os povos Membros reafirmaram, na Carta, sua fé nos direitos fundamentais do ser humano, na dignidade e no valor da pessoa humana e na igualdade de direitos do homem e da mulher e que decidiram promover o progresso social e melhores condições de vida em uma liberdade mais ampla,
+Considerando que todos os Membros reafirmam, sua fé nos direitos fundamentais do ser humano, na dignidade e no valor da pessoa humana e na igualdade de direitos do homem e da mulher e que decidiram promover o progresso social e melhores condições de vida em uma liberdade mais ampla,
 
-Considerando que os povos Membros se comprometeram a promover, em cooperação com, o respeito universal aos direitos e liberdades fundamentais do ser humano e a observância desses direitos e liberdades,
+Considerando que todos os Membros se comprometeram a promover, em cooperação com, o respeito universal aos direitos e liberdades fundamentais do ser humano e a observância desses direitos e liberdades,
 
 Considerando que uma compreensão comum desses direitos e liberdades é da mais alta importância para o pleno cumprimento desse compromisso,
 
@@ -20,13 +20,13 @@ A presente Declaração Universal dos Direitos Humanos é proclamada como o idea
 
 Todo indivíduo, enquanto em conformidade com todos os direitos estabelecidos nesta Declaração, tem direito inalienável à reclamar todos os direitos aqui descritos a fim de garantir sua humanidade e dignidade.
 
-## Artigo II - Direito à Vida
-
-Todo indivíduo tem direito à vida e à manutenção de sua saúde e segurança pessoal.
-
-## Artigo III - Direito à Identidade
+## Artigo II - Direito à Identidade
 
 Todo indivíduo tem direito à sua identidade pessoal exclusiva.
+
+## Artigo III - Direito à Vida
+
+Todo indivíduo tem direito à vida e à manutenção de sua saúde e segurança pessoal.
 
 ## Artigo III - Direito à Liberdade
 
