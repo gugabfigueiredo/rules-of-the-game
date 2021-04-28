@@ -1,8 +1,10 @@
-# Regras do Grupo
+# Rules of The Game
 
-Repositório para manter as regras de convivência do grupo
+This repo holds the documents that establish the rules of the game.
+
+Changes to any documents must be approved by all members.
 
 ## Índice
 
-* [Declaração Universal dos Direitos Humanos](declaracao-universal-dos-direitos-humanos.md): documento que estabelece o propósito das regras descritas neste repositório
-* [Participantes](participantes): documento com a lista de participantes
+* [Members](members): this document lists current members
+* [Universal Declaration of Human Rights](human-rights\universal-declaration-of-human-rights.md)
