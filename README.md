@@ -10,7 +10,7 @@ Changes to any documents must be approved by all registered members before incor
 
 ### Registration
 
-To register as a member, create a pull request adding your name and link to your github profile to the [members](members.md) file
+To register as a member, open a pull request adding your name and link to your github profile to the [members](members.md) file
 
 ```md
 * [Guga Figueiredo](https://github.com/gugabfigueiredo)
