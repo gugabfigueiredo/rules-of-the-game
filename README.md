@@ -2,6 +2,12 @@
 
 This repository holds the documents that establish the rules of the game.
 
+## Documents
+
+* [Members](members.md)
+* [Universal Declaration of Human Rights](human-rights/universal-declaration-of-human-rights.md)
+  * [pt-BR](human-rights/declaracao-universal-dos-direitos-humanos.md)
+
 ## Contributions
 
 Create new documents or add your contributions to the existing ones.
@@ -15,9 +21,3 @@ To register as a member, open a pull request adding your name and link to your g
 ```md
 * [Guga Figueiredo](https://github.com/gugabfigueiredo)
 ```
-
-## Documents
-
-* [Members](members.md)
-* [Universal Declaration of Human Rights](human-rights/universal-declaration-of-human-rights.md)
-  * [pt-BR](human-rights/declaracao-universal-dos-direitos-humanos.md)
