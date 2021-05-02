@@ -2,7 +2,7 @@
 
 ## Preamble
 
-We the People, in Order to uphold the values agreed upon in the [Declaration], do ordain and establish this Constitution of The Free People.
+We the People, by mutual agreement, in Order to uphold the values and objectives agreed upon in the [Declaration], do ordain and establish this Constitution of The Free People.
 
 ## Article I
 
