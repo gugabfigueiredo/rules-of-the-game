@@ -4,5 +4,5 @@ The documents in this folder should describe the guidelines of conduct expected 
 
 ## Index
 
-* [Constitution](/constitution)
-  * [General](/constitution/general.md)
+* [Constitution](constitution)
+  * [General](constitution/general.md)

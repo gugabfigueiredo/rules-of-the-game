@@ -5,9 +5,9 @@ This repository holds the documents that establish the rules of the game.
 ## Index
 
 * [Members](members.md)
-* [Goals](/goals)
-  * [Human Rights](/goals/human-rights)
-* [Legislation](/legislation)
+* [Goals](goals)
+  * [Human Rights](goals/human-rights)
+* [Legislation](legislation)
 
 ## Contributions
 
