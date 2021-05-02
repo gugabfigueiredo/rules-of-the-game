@@ -20,26 +20,26 @@ We the people
 
 Proclaim this Universal Declaration of Human Rights as a common standard of achievement for all individuals and institutions, to the end that, keeping this Declaration in mind, shall strive to promote respect for these rights and freedoms and to secure their universal and effective recognition and observance.s
 
-## Artigo I - Humanity
+## Article I - Humanity
 
 All individuals, in accordance to all the rights set forth in this Declaration, have unalienable right to claim all the rights here described to ensure their humanity and dignity.
 
-## Artigo II - Identity
+## Article II - Identity
 
 All individuals have the right to their personal and exclusive identity.
 
-## Artigo III - Life
+## Article III - Life
 
 All individuals have the right to live and to maintain their health and personal security.
 
-## Artigo III - Liberty
+## Article III - Liberty
 
 All individuals have the right to freedom of action, locomotion, thought and expression.
 
-## Artigo IV - Equality
+## Article IV - Equality
 
 All individuals have the right to equal participation, submission and protection before the constitutions and laws.
 
-## Artigo V - Fraternity
+## Article V - Fraternity
 
 All individuals have the right to commune with voluntary peers.

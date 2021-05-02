@@ -2,11 +2,12 @@
 
 This repository holds the documents that establish the rules of the game.
 
-## Documents
+## Index
 
 * [Members](members.md)
-* [Universal Declaration of Human Rights](human-rights/universal-declaration-of-human-rights.md)
-  * [pt-BR](human-rights/declaracao-universal-dos-direitos-humanos.md)
+* [Goals](/goals)
+  * [Human Rights](/goals/human-rights)
+* [Legislation](/legislation)
 
 ## Contributions
 
