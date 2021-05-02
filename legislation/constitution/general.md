@@ -16,6 +16,6 @@ This Collective shall make no law that permanently removes any individual of the
 
 This Collective shall consist of all [registered members](#) of this repository.
 
-No person or organization shall hold uncontested privileges on this repository.
+No person or organization shall hold exclusive or uncontested privileges on this repository.
 
 Participation in this Collective is voluntary and open to all individuals, pending registration as member as proof of intent.
