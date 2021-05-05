@@ -12,7 +12,7 @@ All legislative Powers herein granted shall be vested in this repository and its
 
 ### Section 2
 
-This Collective shall consist of all [registered members](#) of this repository.
+This Collective shall consist of all [registered members](../../members.md) of this repository.
 
 Participation in this Collective is voluntary and open to all individuals, pending registration as member as proof of intent.
 
