@@ -1,4 +1,4 @@
-# The Constitution of the Free People
+# The General Constitution of the Free People
 
 ## Preamble
 
