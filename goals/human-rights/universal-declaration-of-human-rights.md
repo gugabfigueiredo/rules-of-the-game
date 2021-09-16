@@ -18,11 +18,11 @@ Whereas a common understanding of these rights and freedoms is of the greatest i
 
 We the people
 
-Proclaim this Universal Declaration of Human Rights as a common standard of achievement for all individuals and institutions, to the end that, keeping this Declaration in mind, shall strive to promote respect for these rights and freedoms and to secure their universal and effective recognition and observance.s
+Proclaim this Universal Declaration of Human Rights as a common standard of achievement for all individuals and institutions, to the end that, keeping this Declaration in mind, shall strive to promote respect for these rights and freedoms and to secure their universal and effective recognition and observance.
 
 ## Article I - Humanity
 
-All individuals, in accordance to all the rights set forth in this Declaration, have unalienable right to claim all the rights here described to ensure their humanity and dignity.
+All individuals, in accordance to all the rights set forth in this Declaration, have inalienable right to claim all the rights here described to ensure their humanity and dignity.
 
 ## Article II - Identity
 
